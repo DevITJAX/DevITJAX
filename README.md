@@ -1,7 +1,7 @@
 # Hi there, I'm xJAX 👋
 <div align="center">
 
-![Eren Yeager](https://media1.tenor.com/m/4XJK04-9ZdsAAAAd/eren-eren-yeager.gif)
+![Eren Yeager](https://github.com/DevITJAX/DevITJAX/blob/main/eren-eren-yeager.gif)
 
 </div>
 
