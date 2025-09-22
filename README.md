@@ -1,10 +1,10 @@
-# Hi there, I'm Abdessamad Admairi 👋
+# Hi there, I'm xJAX 👋
 
 <div align="center">
   
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://www.abdessamadadmairi.me/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/admairi-abdessamad/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdessamadadmairi@gmail.com)
 
 </div>
 
@@ -79,38 +79,6 @@ I'm a passionate **DevOps Engineer** and **Cloud Architect** who specializes in 
 
 </div>
 
-## 🎯 Featured DevOps Projects
-
-### 🔐 [Simple Login MERN](https://github.com/DevITJAX/Simple_Login_MERN)
-A containerized MERN stack application with automated CI/CD pipeline, featuring Docker multi-stage builds and Kubernetes deployment manifests.
-
-**Tech Stack:** Docker, Kubernetes, MongoDB, Express.js, React, Node.js, GitHub Actions
-
-### 📝 [EMSI Project TodoList](https://github.com/DevITJAX/EMSIProject_TODOLIST)
-A Java-based task management application with automated testing pipeline and infrastructure provisioning using Terraform.
-
-**Tech Stack:** Java, Docker, Terraform, Jenkins, AWS
-
-### 🛒 [MarketCoop](https://github.com/DevITJAX/MarketCoop)
-A cloud-native mobile marketplace with Flutter frontend and microservices backend deployed on Kubernetes with service mesh.
-
-**Tech Stack:** Flutter, Kubernetes, Istio, Helm Charts, AWS EKS
-
-### 🤖 [AllMightGPT](https://github.com/DevITJAX/AllMightGPT)
-An AI-powered chat application deployed on serverless architecture with automated scaling and monitoring.
-
-**Tech Stack:** AWS Lambda, CloudWatch, S3, CloudFront, Terraform
-
-### 👤 [PersonaMirror](https://github.com/DevITJAX/PersonaMirror)
-A personality analysis tool with GitOps workflow, automated testing, and blue-green deployment strategy.
-
-**Tech Stack:** ArgoCD, Kubernetes, Prometheus, Grafana, GitHub Actions
-
-### 🎫 [DGH Helpdesk v2](https://github.com/DevITJAX/dgh-helpdesk-v2)
-A comprehensive helpdesk management system with microservices architecture, observability stack, and automated incident response.
-
-**Tech Stack:** Node.js, Docker Swarm, ELK Stack, Prometheus, Grafana, Ansible
-
 ## 🏗️ DevOps Expertise Areas
 
 - ☁️ **Cloud Architecture**: Designing scalable, resilient, and cost-effective cloud solutions
@@ -155,5 +123,5 @@ I'm always excited to collaborate on DevOps automation, cloud infrastructure pro
 
 ---
 <div align="center">
-Made with ❤️ by Abdessamad Admairi | DevOps Engineer & Cloud Enthusiast
+Made with ❤️ by xJAX | DevOps Engineer & Cloud Enthusiast
 </div>
