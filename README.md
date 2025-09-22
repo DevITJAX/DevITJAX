@@ -4,7 +4,6 @@
 ![Eren Yeager](https://media1.tenor.com/m/4XJK04-9ZdsAAAAd/eren-eren-yeager.gif)
 
 </div>
-<div align="center">
 
 <div align="center">
   
@@ -72,48 +71,6 @@ I'm a passionate **DevOps Engineer** and **Cloud Architect** who specializes in 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
-
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![DevITJAX's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevITJAX&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevITJAX&layout=compact&theme=radical)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=DevITJAX&theme=radical)
-
-</div>
-
-## 🏗️ DevOps Expertise Areas
-
-- ☁️ **Cloud Architecture**: Designing scalable, resilient, and cost-effective cloud solutions
-- 🔄 **CI/CD Pipelines**: Implementing automated deployment pipelines with quality gates
-- 🐳 **Containerization**: Docker containerization and Kubernetes orchestration
-- 📊 **Infrastructure as Code**: Terraform, CloudFormation, and Ansible automation
-- 📈 **Monitoring & Observability**: Setting up comprehensive monitoring with Prometheus, Grafana, and ELK
-- 🔒 **Security & Compliance**: Implementing DevSecOps practices and security automation
-- 🚀 **Performance Optimization**: Application and infrastructure performance tuning
-- 📱 **Microservices**: Designing and deploying distributed systems
-
-## 🌟 Current Focus
-
-- 🔥 Building **cloud-native applications** with **Kubernetes**
-- 📊 Implementing **GitOps workflows** with **ArgoCD** and **Flux**
-- 🛡️ Exploring **DevSecOps practices** and **security automation**
-- 🤖 **Infrastructure automation** with **Terraform** and **Ansible**
-- 📈 **Site Reliability Engineering** and **chaos engineering** practices
-
-## 🏆 Certifications & Learning Path
-
-- 🎯 Working towards **AWS Solutions Architect**
-- 📚 Studying **Certified Kubernetes Administrator (CKA)**
-- 🔧 Learning **HashiCorp Terraform Associate**
-- 📊 Exploring **Prometheus Certified Associate**
-
-## 📈 Activity Graph
-
-![DevITJAX's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DevITJAX&theme=react-dark)
 
 ## 🌟 Let's Connect!
 
