@@ -1,6 +1,8 @@
 # Hi there, I'm xJAX 👋
 <div align="center">
-<img src="https://media1.tenor.com/m/4XJK04-9ZdsAAAAd/eren-eren-yeager.gif" width="300" height="200" />
+
+![Eren Yeager](https://media1.tenor.com/m/4XJK04-9ZdsAAAAd/eren-eren-yeager.gif)
+
 </div>
 <div align="center">
 
