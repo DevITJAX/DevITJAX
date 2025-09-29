@@ -32,7 +32,7 @@ I'm a passionate **DevOps Engineer** and **Cloud Architect** who specializes in 
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D0?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![IBM Cloud](https://img.shields.io/badge/IBM_Cloud-1261FE?style=for-the-badge&logo=ibmcloud&logoColor=white)
+![IBM Cloud](https://img.shields.io/badge/IBM_Cloud-FFFFFF?style=for-the-badge&logo=ibmcloud&logoColor=white)
 
 
 ---
